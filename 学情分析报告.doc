@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head><meta charset="utf-8">
+<style>
+body { font-family: '宋体', SimSun, serif; font-size: 12pt; padding: 20px; }
+h1 { text-align: center; font-size: 22pt; margin-bottom: 10px; }
+h2 { font-size: 16pt; margin-top: 25px; border-bottom: 2px solid #333; padding-bottom: 5px; }
+table { border-collapse: collapse; width: 100%; margin: 10px 0 20px 0; }
+th, td { border: 1px solid #333; padding: 6px 10px; text-align: center; }
+th { background: #e0e0e0; font-weight: bold; }
+.stat-box { margin: 5px 0; }
+.highlight { color: #c00; font-weight: bold; }
+.green { color: #060; font-weight: bold; }
+.seg-table td:first-child { text-align: left; padding-left: 20px; }
+.student-list { margin: 5px 0 15px 0; line-height: 1.8; }
+.section { page-break-inside: avoid; }
+.footer { text-align: center; margin-top: 30px; color: #888; font-size: 10pt; }
+</style></head><body>
+<h1>📊 学情分析报告</h1>
+<p style="text-align:center;color:#666;">报告生成时间: 2026/4/23 18:06:55</p>
+<div class="section">
+<h2>📌 期末成绩</h2>
+
+<p class="stat-box"><b>参考人数:</b> 12人 &nbsp;&nbsp; <b>平均分:</b> <span class="highlight">79.5</span> &nbsp;&nbsp; <b>最高分:</b> 100 &nbsp;&nbsp; <b>最低分:</b> 45</p>
+
+<h3>📊 分数段分布</h3>
+<table class="seg-table">
+<tr><th>分数段</th><th>人数</th><th>占比</th></tr><tr><td>90-100</td><td>4</td><td>33.3%</td></tr><tr><td>80-89</td><td>3</td><td>25.0%</td></tr><tr><td>70-79</td><td>2</td><td>16.7%</td></tr><tr><td>60-69</td><td>1</td><td>8.3%</td></tr><tr><td><60</td><td>2</td><td>16.7%</td></tr></table>
+
+<h3>📈 关键指标</h3>
+<table>
+<tr><th>指标</th><th>数值</th></tr>
+<tr><td>优秀率（≥90分）</td><td><span class="green">33.3%</span>（4人）</td></tr>
+<tr><td>及格率（≥60分）</td><td><span class="green">83.3%</span>（10人）</td></tr>
+<tr><td>待提升学生（<60分）</td><td><span class="highlight">2人</span></td></tr>
+</table><h3>⚠️ 待提升学生名单</h3>
+<p class="student-list">小刚（58分）、小芳（45分）</p><h3>💡 教学建议</h3><ul><li>班级整体水平较好，优秀率表现突出，可组织优秀学生进行拓展学习。</li><li>有 2 名同学成绩不及格，建议重点关注这些学生的学习状态，安排课后辅导或结对帮扶。</li><li>班级平均分处于中等水平，有一定提升空间，建议加强薄弱环节的针对性训练。</li></ul></div><div class="section">
+<h2>📌 平时成绩</h2>
+
+<p class="stat-box"><b>参考人数:</b> 12人 &nbsp;&nbsp; <b>平均分:</b> <span class="highlight">80.1</span> &nbsp;&nbsp; <b>最高分:</b> 98 &nbsp;&nbsp; <b>最低分:</b> 50</p>
+
+<h3>📊 分数段分布</h3>
+<table class="seg-table">
+<tr><th>分数段</th><th>人数</th><th>占比</th></tr><tr><td>90-100</td><td>3</td><td>25.0%</td></tr><tr><td>80-89</td><td>5</td><td>41.7%</td></tr><tr><td>70-79</td><td>2</td><td>16.7%</td></tr><tr><td>60-69</td><td>1</td><td>8.3%</td></tr><tr><td><60</td><td>1</td><td>8.3%</td></tr></table>
+
+<h3>📈 关键指标</h3>
+<table>
+<tr><th>指标</th><th>数值</th></tr>
+<tr><td>优秀率（≥90分）</td><td><span class="green">25.0%</span>（3人）</td></tr>
+<tr><td>及格率（≥60分）</td><td><span class="green">91.7%</span>（11人）</td></tr>
+<tr><td>待提升学生（<60分）</td><td><span class="highlight">1人</span></td></tr>
+</table><h3>⚠️ 待提升学生名单</h3>
+<p class="student-list">小芳（50分）</p><h3>💡 教学建议</h3><ul><li>优秀率尚可，建议对尖子生适当拔高，鼓励冲击更高分数。</li><li>有 1 名同学成绩不及格，建议重点关注这些学生的学习状态，安排课后辅导或结对帮扶。</li><li>班级平均分良好，教学工作扎实有效。</li></ul></div><div class="section">
+<h2>📌 总评成绩</h2>
+
+<p class="stat-box"><b>参考人数:</b> 12人 &nbsp;&nbsp; <b>平均分:</b> <span class="highlight">79.8</span> &nbsp;&nbsp; <b>最高分:</b> 99 &nbsp;&nbsp; <b>最低分:</b> 47</p>
+
+<h3>📊 分数段分布</h3>
+<table class="seg-table">
+<tr><th>分数段</th><th>人数</th><th>占比</th></tr><tr><td>90-100</td><td>4</td><td>33.3%</td></tr><tr><td>80-89</td><td>3</td><td>25.0%</td></tr><tr><td>70-79</td><td>2</td><td>16.7%</td></tr><tr><td>60-69</td><td>1</td><td>8.3%</td></tr><tr><td><60</td><td>2</td><td>16.7%</td></tr></table>
+
+<h3>📈 关键指标</h3>
+<table>
+<tr><th>指标</th><th>数值</th></tr>
+<tr><td>优秀率（≥90分）</td><td><span class="green">33.3%</span>（4人）</td></tr>
+<tr><td>及格率（≥60分）</td><td><span class="green">83.3%</span>（10人）</td></tr>
+<tr><td>待提升学生（<60分）</td><td><span class="highlight">2人</span></td></tr>
+</table><h3>⚠️ 待提升学生名单</h3>
+<p class="student-list">小刚（59分）、小芳（47分）</p><h3>💡 教学建议</h3><ul><li>班级整体水平较好，优秀率表现突出，可组织优秀学生进行拓展学习。</li><li>有 2 名同学成绩不及格，建议重点关注这些学生的学习状态，安排课后辅导或结对帮扶。</li><li>班级平均分处于中等水平，有一定提升空间，建议加强薄弱环节的针对性训练。</li></ul></div><p class="footer">— 报告由 教学龙虾 🦞 自动生成 —</p></body></html>
